@@ -10,12 +10,12 @@ sites:
     url: https://api.applooma.dev/health/ready
     expectedStatusCodes: [200]
   - name: Console
-    url: https://applooma.dev/dashboard/login
+    url: https://applooma.dev/dashboard
   - name: Documentation
     url: https://docs.applooma.dev
   - name: Media server (signaling)
-    url: https://sfu.applooma.dev
-    expectedStatusCodes: [200, 404]
+    url: https://rtc.applooma.dev
+    expectedStatusCodes: [200]
   - name: TURN relay (TLS 443)
     url: turn.applooma.dev
     port: 443
