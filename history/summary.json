@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/applooma.dev.ico",
     "slug": "console",
     "status": "up",
-    "uptime": "7.57%",
-    "uptimeDay": "7.57%",
-    "uptimeWeek": "7.57%",
-    "uptimeMonth": "7.57%",
-    "uptimeYear": "7.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 490,
     "timeDay": 490,
     "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 490,
-    "dailyMinutesDown": {
-      "2026-09-13": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtc.applooma.dev.ico",
     "slug": "media-server-signaling",
     "status": "up",
-    "uptime": "10.11%",
-    "uptimeDay": "10.11%",
-    "uptimeWeek": "10.11%",
-    "uptimeMonth": "10.11%",
-    "uptimeYear": "10.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 558,
     "timeDay": 558,
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 558,
-    "dailyMinutesDown": {
-      "2026-09-13": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TURN relay (TLS 443)",
