@@ -104,19 +104,19 @@
     "url": "https://api.applooma.dev/v1/token",
     "icon": "https://icons.duckduckgo.com/ip3/api.applooma.dev.ico",
     "slug": "token-issuance-customers-joining-calls",
-    "status": "down",
-    "uptime": "47.21%",
-    "uptimeDay": "47.21%",
-    "uptimeWeek": "47.21%",
-    "uptimeMonth": "47.21%",
-    "uptimeYear": "47.21%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "19.15%",
+    "uptimeDay": "19.15%",
+    "uptimeWeek": "19.15%",
+    "uptimeMonth": "19.15%",
+    "uptimeYear": "19.15%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-10-28": 0
+      "2026-10-28": 1
     }
   },
   {
