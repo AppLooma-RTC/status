@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 1270,
-    "timeDay": 695,
+    "time": 1263,
+    "timeDay": 811,
     "timeWeek": 932,
-    "timeMonth": 899,
-    "timeYear": 1270,
+    "timeMonth": 900,
+    "timeYear": 1263,
     "dailyMinutesDown": {
       "2026-09-25": 299
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 1021,
-    "timeDay": 361,
-    "timeWeek": 461,
-    "timeMonth": 577,
-    "timeYear": 1021,
+    "time": 1010,
+    "timeDay": 399,
+    "timeWeek": 458,
+    "timeMonth": 572,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2026-09-25": 298
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 992,
-    "timeDay": 404,
-    "timeWeek": 542,
-    "timeMonth": 593,
-    "timeYear": 992,
+    "time": 983,
+    "timeDay": 487,
+    "timeWeek": 546,
+    "timeMonth": 592,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2026-09-25": 297
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 1184,
-    "timeDay": 581,
-    "timeWeek": 717,
-    "timeMonth": 775,
-    "timeYear": 1184,
+    "time": 1175,
+    "timeDay": 668,
+    "timeWeek": 722,
+    "timeMonth": 774,
+    "timeYear": 1175,
     "dailyMinutesDown": {
       "2026-09-25": 296
     }
@@ -90,13 +90,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 463,
-    "timeDay": 321,
-    "timeWeek": 454,
+    "time": 462,
+    "timeDay": 375,
+    "timeWeek": 451,
     "timeMonth": 452,
-    "timeYear": 463,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2026-09-25": 291
+    }
+  },
+  {
+    "name": "Token issuance (customers joining calls)",
+    "url": "https://api.applooma.dev/v1/token",
+    "icon": "https://icons.duckduckgo.com/ip3/api.applooma.dev.ico",
+    "slug": "token-issuance-customers-joining-calls",
+    "status": "down",
+    "uptime": "62.61%",
+    "uptimeDay": "62.61%",
+    "uptimeWeek": "62.61%",
+    "uptimeMonth": "62.61%",
+    "uptimeYear": "62.61%",
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
+    "dailyMinutesDown": {
+      "2026-10-28": 0
     }
   },
   {
@@ -111,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 129,
-    "timeDay": 97,
-    "timeWeek": 127,
+    "timeDay": 110,
+    "timeWeek": 126,
     "timeMonth": 127,
     "timeYear": 129,
     "dailyMinutesDown": {
