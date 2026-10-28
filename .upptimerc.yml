@@ -16,6 +16,15 @@ sites:
   - name: Media server (signaling)
     url: https://rtc.applooma.dev
     expectedStatusCodes: [200]
+  - name: Token issuance (customers joining calls)
+    url: https://api.applooma.dev/v1/token
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+      - "x-applooma-key: $CANARY_API_KEY"
+      - "x-applooma-secret: $CANARY_API_SECRET"
+    body: '{"roomName":"status-canary","identity":"status-page","role":"audience"}'
+    expectedStatusCodes: [200]
   - name: TURN relay (TLS 443)
     url: turn.applooma.dev
     port: 443
